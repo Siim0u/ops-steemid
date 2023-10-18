@@ -1,6 +1,6 @@
 # 4. praktikum
 4. praktikumis tegelesin Windows 11 turvalisemaks tegemisega. Harjutasin, kuidas anda erinevaid õiguseid kasutajatele, vahetasin kuidas arvuti toimib näiteks sisselogimisel, õppisin rohkem tundma tähtsat Regedit-it. Lisaks testisin veel viirusetõrjet ja haldasin võrguga seotud sätteid.
-Ülesanne 4-4: 
+Ülesanne 4-4: SeLockMemoryPriviledge
 Ülesanne 4-6: Windows soovitab seada üles One Drive-i, lunavararünnakute kahju leevendamiseks.
 <img width="960" alt="praks1" src="https://github.com/Siim0u/ops-steemid/assets/112852891/31212767-a3d6-472b-9524-1f30c0e1e435">
 <img width="960" alt="praks10" src="https://github.com/Siim0u/ops-steemid/assets/112852891/72ea57f8-64b4-4cf0-830d-ca1b09ab8d7e">
