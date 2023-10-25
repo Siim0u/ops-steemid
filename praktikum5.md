@@ -15,6 +15,7 @@
 **Ül. 5-6:** See võib vähendada süsteemi turvalisust, sest kasutajad, kellel muidu poleks piisavalt õigusi võivad skriptide kaudu pääseda ligi privaatsele infole.
 
 **Ül. 5-7:** Kustutada saavad kasutajad: root, peeter, opetaja
+
 **Ül. 5-8:** # file: hinded.txt
 
 #owner: opetaja
