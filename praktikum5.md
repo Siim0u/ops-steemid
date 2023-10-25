@@ -1,4 +1,7 @@
 # 5. praktikum
+
+5. praktikumis õppisin, kuidas muuta failidel ja kaustadel õigusi. Tegelesin ka skriptidega ning sain teada millised turvaaugud võivad tekkida, kui anda kasutajatele liiga palju õigusi. Tegin ka uusi kasutajaid ja gruppe, et lähemalt testida, kes ja mis õigustega saab teatud faile muuta, lugeda või käivitada.
+
 **Ül. 5-1:** **a)** Omanikul on vaja vaid luba kataloogi sisenemiseks (x) ja luba faili lugemiseks (r)
 **b)** Omanikul on vaja vaid luba kataloogi sisenemiseks (x), sinna kirjutamiseks/kustutamiseks (w) ning luba faili kirjutamiseks (w)
 
