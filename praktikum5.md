@@ -18,6 +18,7 @@
 
 **Ül. 5-8:** # file: hinded.txt
 
+
 #owner: opetaja
 
 #group: opetaja
@@ -31,6 +32,8 @@ group:direktor:rw-
 mask::rw-
 
 other::---
+
+
 **Ül. 5-9:** Mitte keegi ei saa selle faili sisu modifitseerida. Saate eemaldada atribuudi faililt käsuga: "sudo chattr -i testfail-2" ning peale seda teha "rm testfail-2", et fail ikkagi kustutada.
 
 
