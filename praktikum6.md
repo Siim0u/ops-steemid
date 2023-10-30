@@ -1,4 +1,6 @@
 # 6. praktikum
+6. praktikumis õppisin, kuidas hallata protsesse unix süsteemis. Sain teada, kuidas leida protsesse üles ning mis käskude abil saab neid peatada, magama panna või tõsta tagataustale. Lisaks õppisin, kuidas pipe-ida commande ning kust leida protsesside sisendeid ja väljundeid.
+   
 **Ül. 3** Käsk: ps -axu | grep daemon | tr -s "" | cut -68-
 
 **Ül. 4** Käsk: ip a | grep inet | sed '3!d' | cut -d '/' -f 1 | tr -d inet > ipaddress.txt
