@@ -7,4 +7,7 @@
 **3.** https://kodu.ut.ee/~siimsill/hdd.png
 
 **5.** "-o ro" ühildab failisüsteemi "read-only" õigustega, "-t auto" paneb failisüsteemi tüübi paika automaatselt.
+
 **6.** Ubuntu asendas väärtuse "exfat"-ga.
+<img width="960" alt="Screenshot 2023-11-07 185531" src="https://github.com/Siim0u/ops-steemid/assets/112852891/5aec6b1a-d2ac-4fd5-8483-7ede0985a4fb">
+<img width="960" alt="Screenshot 2023-11-07 195715" src="https://github.com/Siim0u/ops-steemid/assets/112852891/2b8d85ba-ab09-4f03-a243-0347f8dd9845">
