@@ -1,4 +1,5 @@
 # 7. praktikum
+7. praktikumis õppisin, kuidas andmekandjaid süsteemi jaoks seadistada. Sain teada, kuidas kasutada "mount" käsku ja selle erinevaid parameetreid ning kuidas automaatselt haakida seadet süsteemis. Lisaks kohalikele failisüsteemidele, sain ka teada, kuidas hallata faile, mis asuvad kaugel serveris ning mis viisidel saab seda ühildada kohaliku süsteemiga.
 
 **1.** Andmekandjad vajavad lähtestamist, et näiteks ketta müümisel kustutada vanad andmed või tarkvaraliste probleemide puhul taastada ketta töötav olek.
 
