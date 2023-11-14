@@ -8,4 +8,4 @@
 <img<img width="960" alt="praks8_2" src="https://github.com/Siim0u/ops-steemid/assets/112852891/49e0c96a-beec-451f-936c-fa56ae4587ba">
 <img width="960" alt="praks8_1" src="https://github.com/Siim0u/ops-steemid/assets/112852891/bc93675c-2ab9-433f-9963-fa252c546011">
 <img width="806" alt="praks8_6" src="https://github.com/Siim0u/ops-steemid/assets/112852891/a5beb95a-f6ad-4965-b51b-8c85eddfcbc0">
- width="960" alt="praks8_3" src="https://github.com/Siim0u/ops-steemid/assets/112852891/ebb23294-b539-4773-b5d5-1003bea6eb21">
+<img width="960" alt="praks8_3" src="https://github.com/Siim0u/ops-steemid/assets/112852891/ebb23294-b539-4773-b5d5-1003bea6eb21">
