@@ -15,4 +15,21 @@
 ## 12. Võrrelge terminali käskude: sha1sum /dev/zero | sha1sum /dev/zero ja sha1sum /dev/urandom | sha1sum /dev/urandom protsessori kasutust. Võrdluseks avage teine terminaliaken ja top samaaegseks käivitamiseks. Uurige, millisele CPU alamtegevusele us, sy, id, wa, st jne kulub enim protsessori aega ja mitu protsenti kulub kummagi käsu korral. (Ainult Linuxis) Lisa ka ekraanipilt aruande juurde näiteks pärast tabelit.<br>
 Esimene käsu puhul oli "us" kõige suurem - 87%<br>
 Teise käsu puhul oli "sy" kõige suurem - 59%<br>
+## 13.<br>
+1. VirtualBoxVM.exe - Resource monitor -> Processes with disk activity -> Write<br>
+2. C:\VirtualBoxVM\OS-sillaots-U22\snapshots\{"väga pikk jada"}.vdi - Resource monitor -> Disk activity -> Write<br>
+3. VirtualBoxVM.exe - Resource monitor -> Processes with disk activity -> Read<br>
+4. C:\VirtualBoxVM\OS-sillaots-U22\snapshots\{"väga pikk jada"}.vdi - Resource monitor -> Disk activity -> Read<br>
+## 14.<br>
+VirtualBoxVM.exe<br>
+Leidsin: Resource monitor -> network ->  TCP Connections<br>
+Kohalik IP: 192.168.1.110<br>
+Kohalik port: 55063<br>
+Väline IP: 193.40.5.90<br>
+Väline port: 443<br>
+Latents: 8ms<br>
+Total: 74 B/sec<br>
+## 15.<br>
+Kõigepealt avan dxdiagi, et saada ülevääde, kui võimas ja uus on antud süsteem. Jälgin, mis operatsioonisüsteem on, vaatan protsessorit ja mälu, vajadusel teen taustauuringut riistvara kohta. Vaatan ka kuvari lehte, jälgides välja "chip type", et saada ülevaade, mis GPU on. Järgmisena lähen vaatan ketta haldusest, kui palju vaba ruumi on ketastel
+
 
