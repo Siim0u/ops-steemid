@@ -24,3 +24,17 @@ done</code>
 echo "Sisestage protsess:"
 read protsess
 ps -A | awk -v protsess="$protsess" '$0 ~ protsess {print "Protsess:", $4, "PID:", $1}'</code>
+
+<code>#!/bin/bash
+astenda() {
+  arv=$1
+  eksponent=$2
+
+  if [ $eksponent -eq 0 ]; then
+    echo 1
+  else
+    result=$((arv * $(astenda $arv $((eksponent - 1)))))
+    echo $result
+  fi
+}
+echo $(astenda 9 5)</code>
