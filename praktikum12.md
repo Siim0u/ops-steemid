@@ -37,8 +37,8 @@ astenda() {
     echo $result
   fi
 }
-echo $(astenda 9 5)</code>
-<img width="842" alt="Kuvatõmmis 2023-12-13 202014" src="https://github.com/Siim0u/ops-steemid/assets/112852891/17b01941-5b21-427a-8f9c-949feefd7d18">
+echo $(astenda 9 5)</code><img width="842" alt="Kuvatõmmis 2023-12-13 202014" src="https://github.com/Siim0u/ops-steemid/assets/112852891/c91cb07e-a0db-4aff-bde5-79ae23cba471">
+
 ![Upl<img width="953" alt="Kuvatõmmis 2023-12-13 213252" src="https://github.com/Siim0u/ops-steemid/assets/112852891/c16aae75-8ae1-4e56-a32c-032636626d1e">
 <img width="865" alt="Kuvatõmmis 2023-12-13 212709" src="https://github.com/Siim0u/ops-steemid/assets/112852891/4397193b-9e69-4628-928c-da9086a84570">
 <img width="887" alt="Kuvatõmmis 2023-12-13 212125" src="https://github.com/Siim0u/ops-steemid/assets/112852891/ca887971-1198-4bfe-a680-8001f0292cb8">
