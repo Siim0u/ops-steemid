@@ -1,5 +1,7 @@
 # 13. praktikum
-Kood: <code> #$nr:	küsimuse number
+Kood: 
+<code> 
+#$nr:	küsimuse number
 #$param: mis parameetriga tegemist (võimalikult lühidalt)
 #$sisu:	väljastatav sisu
 function valjasta{
@@ -64,4 +66,5 @@ $ajakulu = ($aegL - $aegA)
 [int]$aegA = (Get-Date).Millisecond
 Valjasta 10 "ALGUS" (Get-Date -Format "dddd MM/dd/yyyy HH:mm K")
 
-Valjasta "*" "TEHTUD" "$ajakulu`n`n"</code>
+Valjasta "*" "TEHTUD" "$ajakulu`n`n"
+</code>
