@@ -1,5 +1,5 @@
 # 13. praktikum
-Kood: 
+Kood: <br>
 <code> 
 #$nr:	küsimuse number
 #$param: mis parameetriga tegemist (võimalikult lühidalt)
@@ -66,5 +66,5 @@ $ajakulu = ($aegL - $aegA)
 [int]$aegA = (Get-Date).Millisecond
 Valjasta 10 "ALGUS" (Get-Date -Format "dddd MM/dd/yyyy HH:mm K")
 
-Valjasta "*" "TEHTUD" "$ajakulu`n`n"
+Valjasta "*" "TEHTUD" "$ajakulu`n`n"<br>
 </code>
