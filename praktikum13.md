@@ -1,5 +1,5 @@
 # 13. praktikum
-13. praktikumis õppisin, kuidas Windowsi Powershellis skriptida. Sain teada täpsemalt, kuidas muutujad, funktsioonid ja faili sisse kirjutamine töötab. Teadmiste abil kirjutasin koodi, kasutades antud algfaili, mis otsib infot arvuti, selles toimuva ning võrguühenduste kohta. 
+13. praktikumis õppisin, kuidas Windowsi Powershellis skriptida. Sain teada täpsemalt, kuidas muutujad, funktsioonid ja faili sisse kirjutamine töötab. Teadmiste abil kirjutasin koodi, kasutades antud algfaili, mis otsib infot arvuti, selles toimuva ning võrguühenduste kohta. <br>
 Kood:
 ```powershell
 #$nr:	küsimuse number
